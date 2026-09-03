@@ -3,7 +3,7 @@
   
   <p align="center">
     <b>🎓 B.Tech in Computer Science & Business Systems (CSBS)</b><br>
-    🚀 <i>Software Engineer | AI/ML & Full-Stack Developer | Problem Solver</i><br>
+    🚀 <i>AI / ML & Software Developer</i><br>
     📍 <i>Kolhapur, Maharashtra, India</i>
   </p>
 
@@ -24,11 +24,11 @@
 
 ### 🌟 About Me
 
-- 🔭 **Building:** Intelligent AI/ML applications, RAG pipelines, and full-stack web platforms.
-- 💡 **Core Strengths:** Data Structures & Algorithms (DSA), Object-Oriented Programming (OOP), and Database Management Systems (DBMS).
-- 🧠 **AI & Machine Learning:** Practical experience in building models with TensorFlow, Scikit-learn, and Retrieval-Augmented Generation (RAG).
-- ☁️ **Cloud & Infrastructure:** Hands-on with AWS Fundamentals (AWS Academy Graduate) and modern API workflows.
-- 💬 **Ask me about:** Python, FastAPI, Node.js, React, RAG architectures, and SQL/NoSQL databases.
+- 🔭 **Focus Areas:** AI / ML solutions, RAG pipelines, FastAPI backends, and React.js web interfaces.
+- 💡 **Core Foundations:** Data Structures & Algorithms, Object-Oriented Programming (OOP), and Database Management Systems (DBMS).
+- 🧠 **AI & Machine Learning:** Practical experience with TensorFlow, Scikit-learn, RAG, Pandas, NumPy, and Matplotlib.
+- ☁️ **Cloud & Tools:** AWS Fundamentals (AWS Academy Graduate), GitHub, Postman.
+- 💬 **Ask me about:** Python, FastAPI, React.js, RAG pipelines, MySQL, and MongoDB.
 
 ---
 
@@ -37,19 +37,18 @@
 <table>
   <tr>
     <td valign="top" width="50%">
-      <h4>💻 Programming Languages</h4>
+      <h4>💻 Languages</h4>
       <p>
         <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
         <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java"/>
         <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black" alt="C"/>
-        <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="SQL"/>
       </p>
 
-      <h4>🧠 AI / ML & Data Science</h4>
+      <h4>🧠 AI / ML & Data</h4>
       <p>
         <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" alt="TensorFlow"/>
         <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" alt="Scikit-learn"/>
-        <img src="https://img.shields.io/badge/RAG_Pipelines-8A2BE2?style=flat-square&logo=openai&logoColor=white" alt="RAG"/>
+        <img src="https://img.shields.io/badge/RAG-8A2BE2?style=flat-square&logo=openai&logoColor=white" alt="RAG"/>
         <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas"/>
         <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" alt="NumPy"/>
         <img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=python&logoColor=white" alt="Matplotlib"/>
@@ -65,25 +64,24 @@
       <h4>⚙️ Backend & APIs</h4>
       <p>
         <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI"/>
-        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" alt="Node.js"/>
         <img src="https://img.shields.io/badge/REST_API-005571?style=flat-square&logo=postman&logoColor=white" alt="REST API"/>
       </p>
 
       <h4>🌐 Frontend</h4>
       <p>
-        <img src="https://img.shields.io/badge/React.js-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React"/>
+        <img src="https://img.shields.io/badge/React.js-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React.js"/>
       </p>
 
       <h4>📚 CS Fundamentals</h4>
       <p>
-        <img src="https://img.shields.io/badge/Data_Structures_&_Algorithms-4B0082?style=flat-square&logo=leetcode&logoColor=white" alt="DSA"/>
+        <img src="https://img.shields.io/badge/Data_Structures_&_Algorithms-4B0082?style=flat-square" alt="DSA"/>
         <img src="https://img.shields.io/badge/OOP-2E8B57?style=flat-square" alt="OOP"/>
         <img src="https://img.shields.io/badge/DBMS-1E90FF?style=flat-square" alt="DBMS"/>
       </p>
 
-      <h4>☁️ Cloud & Developer Tools</h4>
+      <h4>☁️ Cloud & Tools</h4>
       <p>
-        <img src="https://img.shields.io/badge/AWS_Fundamentals-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white" alt="AWS"/>
+        <img src="https://img.shields.io/badge/AWS_Fundamentals-AWS_Academy-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white" alt="AWS Fundamentals"/>
         <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"/>
         <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" alt="Postman"/>
       </p>
@@ -95,9 +93,9 @@
 
 ### 🚀 Featured Highlights & Projects
 
-- 🤖 **[AI-Smart-Mock-Interview](https://github.com/Prashantpowar45/AI-Smart-Mock-Interview)** — Intelligent technical interview preparation platform using dynamic AI evaluation and automated feedback.
-- 🛡️ **[SIRA - Scam Intelligence & Response System](https://github.com/Prashantpowar45/SIRA-Scam_Intelligence_and_response_system)** — AI-driven system designed to analyze, classify, and counter scam communications.
-- 📊 **[SIRA-200-Dataset](https://github.com/Prashantpowar45/SIRA-200-Dataset)** — Curated dataset for machine learning pattern recognition and classification.
+- 🤖 **[AI-Smart-Mock-Interview](https://github.com/Prashantpowar45/AI-Smart-Mock-Interview)** — Intelligent interview preparation platform generating dynamic AI evaluation and feedback.
+- 🛡️ **[SIRA - Scam Intelligence and Response System](https://github.com/Prashantpowar45/SIRA-Scam_Intelligence_and_response_system)** — AI-driven framework for scam detection and response.
+- 📊 **[SIRA-200-Dataset](https://github.com/Prashantpowar45/SIRA-200-Dataset)** — Machine learning dataset curated for analysis and pattern recognition.
 - 📈 **[Price-Pulse](https://github.com/Prashantpowar45/Price-Pulse)** — Real-time tracking and data analytics tool.
 
 ---
