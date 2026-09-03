@@ -3,7 +3,7 @@
   
   <p align="center">
     <b>🎓 B.Tech in Computer Science & Business Systems (CSBS)</b><br>
-    🚀 <i>Full-Stack Developer | AI & Intelligent Systems Enthusiast | Problem Solver</i><br>
+    🚀 <i>Full-Stack Engineer | Open Source Contributor | GenAI Enthusiast</i><br>
     📍 <i>Kolhapur, Maharashtra, India</i>
   </p>
 
@@ -24,11 +24,11 @@
 
 ### 🌟 About Me
 
-- 🔭 **Currently working on:** AI-driven applications, full-stack web platforms, and automated intelligence systems.
-- 💡 **Passionate about:** Data Structures & Algorithms, Scalable Architecture, and Generative AI workflows.
-- 🌱 **Learning & Exploring:** Large Language Models (LLMs), AI phone agents, and distributed backend systems.
-- 💬 **Ask me about:** React, Node.js, TypeScript, Python, REST APIs, and building end-to-end projects.
-- ⚡ **Fun fact:** I love turning real-world problem statements into functional, intuitive software.
+- 🔭 **Currently Building:** Full-stack scalable applications and GenAI-powered developer tools.
+- 🌐 **Open Source:** Contributing to large-scale open-source ecosystems including **Rocket.Chat** and **CNCF**.
+- 💡 **Passionate about:** Modern Web Architecture, Distributed Systems, Data Structures & Algorithms (DSA).
+- 🌱 **Learning & Exploring:** Large Language Model (LLM) agents, Real-time WebSockets, and Microservices.
+- 💬 **Ask me about:** TypeScript, React.js, Node.js, Next.js, Python, REST APIs, and System Design.
 
 ---
 
@@ -37,7 +37,7 @@
 <table>
   <tr>
     <td valign="top" width="50%">
-      <h4>💻 Programming Languages</h4>
+      <h4>💻 Languages</h4>
       <p>
         <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript"/>
         <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript"/>
@@ -47,7 +47,7 @@
         <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="SQL"/>
       </p>
 
-      <h4>🌐 Frontend Development</h4>
+      <h4>🌐 Frontend</h4>
       <p>
         <img src="https://img.shields.io/badge/React.js-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React"/>
         <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js"/>
@@ -57,7 +57,7 @@
         <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white" alt="Vite"/>
       </p>
 
-      <h4>🗄️ Databases & Storage</h4>
+      <h4>🗄️ Databases</h4>
       <p>
         <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB"/>
         <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
@@ -74,21 +74,21 @@
         <img src="https://img.shields.io/badge/REST_APIs-005571?style=flat-square&logo=postman&logoColor=white" alt="REST APIs"/>
       </p>
 
-      <h4>🤖 AI, ML & Data</h4>
+      <h4>🤖 AI, Data & Tools</h4>
       <p>
         <img src="https://img.shields.io/badge/GenAI_&_LLMs-FF6F00?style=flat-square&logo=openai&logoColor=white" alt="GenAI"/>
-        <img src="https://img.shields.io/badge/Prompt_Engineering-412991?style=flat-square&logo=openai&logoColor=white" alt="Prompts"/>
         <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas"/>
-        <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" alt="NumPy"/>
-      </p>
-
-      <h4>🧰 Tools & Version Control</h4>
-      <p>
         <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git"/>
         <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"/>
         <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" alt="Postman"/>
         <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" alt="VS Code"/>
-        <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux"/>
+      </p>
+
+      <h4>🤝 Open Source Involvements</h4>
+      <p>
+        <img src="https://img.shields.io/badge/Rocket.Chat-F5455C?style=flat-square&logo=rocket.chat&logoColor=white" alt="Rocket.Chat"/>
+        <img src="https://img.shields.io/badge/CNCF-2468F2?style=flat-square&logo=cncf&logoColor=white" alt="CNCF"/>
+        <img src="https://img.shields.io/badge/Open_Source-3DA639?style=flat-square&logo=opensourceinitiative&logoColor=white" alt="Open Source"/>
       </p>
     </td>
   </tr>
@@ -99,9 +99,9 @@
 ### 🚀 Featured Highlights & Projects
 
 - 🤖 **[AI-Smart-Mock-Interview](https://github.com/Prashantpowar45/AI-Smart-Mock-Interview)** — Intelligent interview preparation platform generating dynamic questions, evaluation, and instant feedback.
-- 🛡️ **[SIRA - Scam Intelligence and Response System](https://github.com/Prashantpowar45/SIRA-Scam_Intelligence_and_response_system)** — Intelligent system designed to detect, analyze, and counter scam communications.
+- 🛡️ **[SIRA - Scam Intelligence and Response System](https://github.com/Prashantpowar45/SIRA-Scam_Intelligence_and_response_system)** — Intelligent system designed to detect, analyze, and counter fraudulent communications.
+- 💬 **[Rocket.Chat Ecosystem](https://github.com/Prashantpowar45/Rocket.Chat)** — Open source enterprise communications platform exploration and contributions.
 - 📈 **[Price-Pulse](https://github.com/Prashantpowar45/Price-Pulse)** — Real-time price tracking and analytics utility.
-- 🎙️ **[QuickVoice](https://github.com/Prashantpowar45/QuickVoice)** — AI phone agent voice architecture and conversational pipeline exploration.
 
 ---
 
