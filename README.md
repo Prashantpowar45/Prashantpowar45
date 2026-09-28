@@ -91,6 +91,15 @@
 
 ---
 
+### 🌐 Open Source Contributions
+
+- 🛡️ **[mcp-drift-check](https://github.com/tomelias10/mcp-drift-check)** — Zero-execution security preflight for Model Context Protocol (MCP) packages.
+  - Implemented portable GitHub Copilot CLI user configuration discovery (`COPILOT_HOME` & default paths) with automated unit test coverage ([PR #10](https://github.com/tomelias10/mcp-drift-check/pull/10)).
+- ⚡ **[AutoMQ](https://github.com/AutoMQ/automq)** — Cloud-native diskless Apache Kafka solution on S3.
+  - Contributed to developer onboarding, CLI tooling documentation, and setup guides ([PR #3583](https://github.com/AutoMQ/automq/pull/3583), [PR #3585](https://github.com/AutoMQ/automq/pull/3585)).
+
+---
+
 ### 🚀 Featured Highlights & Projects
 
 - 🤖 **[AI-Smart-Mock-Interview](https://github.com/Prashantpowar45/AI-Smart-Mock-Interview)** — Intelligent interview preparation platform generating dynamic AI evaluation and feedback.
