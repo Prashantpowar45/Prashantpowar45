@@ -19,7 +19,7 @@
 <p>
   <img src="https://komarev.com/ghpvc/?username=Prashantpowar45&label=Profile%20Views&color=2563eb&style=flat-square" alt="Profile views"/>
   <img src="https://img.shields.io/badge/Open%20Source-Contributor-22c55e?style=flat-square&logo=opensourceinitiative&logoColor=white" alt="Open Source Contributor"/>
-  <img src="https://img.shields.io/badge/LeetCode-250%2B%20Problems-FFA116?style=flat-square&logo=leetcode&logoColor=black" alt="250+ LeetCode Problems"/>
+  <img src="https://img.shields.io/badge/LeetCode-Strong%20Zone-FFA116?style=flat-square&logo=leetcode&logoColor=black" alt="LeetCode Strong Zone"/>
   <img src="https://img.shields.io/badge/Focus-AI%20%7C%20ML%20%7C%20RAG-7c3aed?style=flat-square" alt="AI ML RAG"/>
 </p>
 
@@ -173,42 +173,71 @@ Dataset repository supporting experimentation, ML analysis and scam-pattern rese
 
 ---
 
-## 🧠 DSA & LeetCode
+## ⚡ Competitive Programming & LeetCode — Strong Zone
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/LeetCode-250%2B%20Problems%20Practiced-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
-<img src="https://img.shields.io/badge/DSA-Interview%20Preparation-2563EB?style=for-the-badge" alt="DSA"/>
-<img src="https://img.shields.io/badge/Java-Problem%20Solving-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
+<img src="https://img.shields.io/badge/LeetCode-250%2B%20Problems%20Practiced-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode 250+"/>
+<img src="https://img.shields.io/badge/Contest%20Practice-Weekly%20%26%20Biweekly-7C3AED?style=for-the-badge&logo=leetcode&logoColor=white" alt="Contest Practice"/>
+<img src="https://img.shields.io/badge/DSA-Strong%20Problem%20Solving-2563EB?style=for-the-badge" alt="DSA Strong Zone"/>
+<img src="https://img.shields.io/badge/Primary%20Language-Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java DSA"/>
 
 </div>
-
-<p align="center">
-Practicing arrays, strings, stacks, recursion, backtracking, trees, graphs, dynamic programming and interview-style problem solving.
-</p>
-
----
-
-## 📊 GitHub Analytics
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Prashantpowar45&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub Stats"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prashantpowar45&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages"/>
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Prashantpowar45&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🎯 Problem-Solving Focus
+
+- Arrays & Strings
+- Stack / Queue patterns
+- Recursion & Backtracking
+- Trees & Graphs
+- Dynamic Programming
+- Time & Space Complexity
+- Interview-style optimization
+
+</td>
+<td width="50%" valign="top">
+
+### 🏁 Contest Mindset
+
+- Timed problem-solving practice
+- Fast pattern recognition
+- Clean Java implementations
+- Edge-case handling
+- Complexity-aware solutions
+- Weekly / Biweekly contest-style preparation
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+
+### 📚 LeetCode Solutions Repository
+
+<a href="https://github.com/Prashantpowar45/Prashantpowar45-LeetCode">
+  <img src="https://img.shields.io/badge/View%20My-LeetCode%20Solutions-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode Solutions Repository"/>
+</a>
+
+<br/><br/>
+
+<b>DSA is one of my strongest areas — I regularly practice coding problems with a focus on speed, correctness and interview-ready solutions.</b>
 
 </div>
 
 ---
 
-## 🏆 GitHub Highlights
+## 📊 GitHub Activity
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Prashantpowar45&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1&column=6" alt="GitHub Trophies"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Prashantpowar45&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true" alt="GitHub Stats"/>
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Prashantpowar45&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 
 </div>
 
