@@ -177,10 +177,14 @@ Dataset repository supporting experimentation, ML analysis and scam-pattern rese
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/LeetCode-250%2B%20Problems%20Practiced-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode 250+"/>
-<img src="https://img.shields.io/badge/Contest%20Practice-Weekly%20%26%20Biweekly-7C3AED?style=for-the-badge&logo=leetcode&logoColor=white" alt="Contest Practice"/>
-<img src="https://img.shields.io/badge/DSA-Strong%20Problem%20Solving-2563EB?style=for-the-badge" alt="DSA Strong Zone"/>
-<img src="https://img.shields.io/badge/Primary%20Language-Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java DSA"/>
+### 🏆 Coding Milestones
+
+<img src="https://img.shields.io/badge/🏆_Problem_Solver-250%2B_Practice-FFA116?style=for-the-badge" alt="250+ Practice Trophy"/>
+<img src="https://img.shields.io/badge/🥇_DSA-Strong_Zone-2563EB?style=for-the-badge" alt="DSA Strong Zone"/>
+<img src="https://img.shields.io/badge/⚔️_Contest-Practice_Mode-7C3AED?style=for-the-badge" alt="Contest Practice"/>
+<img src="https://img.shields.io/badge/☕_Java-Primary_DSA_Language-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java DSA"/>
+<img src="https://img.shields.io/badge/🧠_Patterns-Interview_Ready-16A34A?style=for-the-badge" alt="Interview Patterns"/>
+<img src="https://img.shields.io/badge/🔥_Consistency-Regular_Practice-DC2626?style=for-the-badge" alt="Consistency"/>
 
 </div>
 
@@ -190,7 +194,7 @@ Dataset repository supporting experimentation, ML analysis and scam-pattern rese
 <tr>
 <td width="50%" valign="top">
 
-### 🎯 Problem-Solving Focus
+### 🎯 Problem-Solving Strengths
 
 - Arrays & Strings
 - Stack / Queue patterns
@@ -203,7 +207,7 @@ Dataset repository supporting experimentation, ML analysis and scam-pattern rese
 </td>
 <td width="50%" valign="top">
 
-### 🏁 Contest Mindset
+### 🏁 Contest & Interview Mindset
 
 - Timed problem-solving practice
 - Fast pattern recognition
@@ -221,12 +225,12 @@ Dataset repository supporting experimentation, ML analysis and scam-pattern rese
 ### 📚 LeetCode Solutions Repository
 
 <a href="https://github.com/Prashantpowar45/Prashantpowar45-LeetCode">
-  <img src="https://img.shields.io/badge/View%20My-LeetCode%20Solutions-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode Solutions Repository"/>
+  <img src="https://img.shields.io/badge/Open-LeetCode_Solutions-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode Solutions Repository"/>
 </a>
 
 <br/><br/>
 
-<b>DSA is one of my strongest areas — I regularly practice coding problems with a focus on speed, correctness and interview-ready solutions.</b>
+<b>LeetCode + DSA is one of my strongest zones — I focus on speed, correctness, pattern recognition and interview-ready solutions.</b>
 
 </div>
 
