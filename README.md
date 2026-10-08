@@ -30,7 +30,7 @@
 ## 👨‍💻 About Me
 
 - 🎓 B.Tech student in **Computer Science & Business Systems (CSBS)**
-- 🤖 Building projects around **AI/ML, Generative AI, RAG, NLP and intelligent automation**
+- 🤖 Building projects around **AI/ML, Generative AI, RAG, and intelligent automation**
 - ⚙️ Comfortable with **Python, FastAPI, REST APIs, React.js and databases**
 - 🧠 Strong interest in **Data Structures & Algorithms** and coding interview preparation
 - 🌍 Actively contributing to **open-source AI, MCP and backend projects**
