@@ -138,7 +138,7 @@ Dataset resource supporting experiments in scam-pattern analysis.
 <img height="165" src="https://github-readme-stats.vercel.app/api?username=Prashantpowar45&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub statistics"/>
 <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prashantpowar45&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages"/>
 
-<img width="96%" src="https://github-readme-activity-graph.vercel.app/graph?username=Prashantpowar45&theme=tokyo-night&hide_border=true&area=true" alt="GitHub contribution activity"/>
+<a href="https://github.com/Prashantpowar45?tab=overview&from=2026-11-01&to=2026-11-30"><img width="96%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Prashantpowar45&theme=tokyonight" alt="GitHub contribution overview"/></a>\n\n[View my live GitHub contribution calendar](https://github.com/Prashantpowar45?tab=overview)
 
 </div>
 
